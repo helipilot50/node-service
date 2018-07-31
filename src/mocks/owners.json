@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "name": "Harry Potter",
+    "address": "Wonderland, Heaven",
+    "phone": "616161616",
+    "email": ""
+  },
+  {
+    "id": 2,
+    "name": "Michael Jordan",
+    "address": "The Court, NBA",
+    "phone": "717171717"
+  },
+  {
+    "id": 3,
+    "name": "John Cena",
+    "address": "The Ring, WWE",
+    "phone": "818181818"
+  }
+]

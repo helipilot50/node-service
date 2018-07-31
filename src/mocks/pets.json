@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "owner_id": 1,
+    "name": "Lucy",
+    "colour": "White",
+    "age": 2,
+    "breed": "Dog"
+  },
+  {
+    "id": 2,
+    "owner_id": 1,
+    "name": "Bella",
+    "colour": "Black",
+    "age": 3,
+    "breed": "Cat"
+  },
+  {
+    "id": 3,
+    "owner_id": 2,
+    "name": "Molly",
+    "colour": "Brown",
+    "age": 4,
+    "breed": "Dog"
+  }
+]
