@@ -12,4 +12,4 @@ COPY ./dist/ /var/app/current/dist/
 
 EXPOSE 3000
 
-CMD ["npm", "start"]
+CMD ["node", "./dist/src/app.js"]
